@@ -14,7 +14,7 @@ Login Test Negative
     ${Wait}
     Wait Until Element Is Visible  ${Search_Button}
     Press key  ${Down_Arrow}    
-    
+    Cancel Browser
 
 
 
