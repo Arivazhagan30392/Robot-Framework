@@ -13,4 +13,4 @@ ${chromedriver_path}=   chromedriversync.Get Chromedriver Path
 Create Webdriver    chrome   executable_path=  ${chromedriver_path}  
 ${Url} 
 ${Search}
-Cancel Browser
+Cancel Browser.
